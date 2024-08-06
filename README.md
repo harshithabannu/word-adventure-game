@@ -17,3 +17,21 @@ To play the game on your local machine:
 2. **Clone the Repository**: Open your terminal or command prompt and clone the repository using Git:
    ```sh
    git clone https://github.com/your-username/text-adventure-game.git
+
+   
+### Explanation of Sections
+
+1. **Usage**:
+   - **Purpose**: This section explains how to use the project once it’s set up.
+   - **Location**: It typically follows the **Installation** section.
+   - **Content**: Provide details on how to run the game or application, and any important usage instructions.
+
+2. **Contributing**:
+   - **Purpose**: This section guides others who want to contribute to the project.
+   - **Location**: After the **Usage** section, or sometimes before if you expect contributions early.
+   - **Content**: Include steps for contributing, such as forking the repo, creating a branch, making changes, and submitting a pull request.
+
+### Summary
+
+- **Usage** explains how to use your project.
+- **Contributing** provides guidelines for how others can contribute to your project.
